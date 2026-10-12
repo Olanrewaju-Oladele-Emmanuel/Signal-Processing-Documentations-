@@ -16,6 +16,7 @@ Day 02 - Sine vs Cosine Phase Difference (5Hz) - Complete
 Day 03 - Effect of Frequency (1Hz, 5Hz, 10Hz) - Completed
 Day 04 - Effect of Amplitude (A = 0.5, 1, 2 at 5Hz) - Completed
 Day 05 - Phase Shift (0°, 90°, 180°) and Euler Formula - Completed
+Day 06 - Superposition: Constructive (2x amplitude) & Destructive (0 cancellation), f=5Hz T=0.2s - Completed
 
 Folder Structure:
 Each folder contains:
