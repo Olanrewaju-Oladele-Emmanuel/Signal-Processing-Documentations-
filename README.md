@@ -1,29 +1,30 @@
 Signal Processing Documentation
 
-Name: Olanrewaju, Oladele Emmanuel
-Field: Industrial Technical Education (Electrical/Electronics) - B.Ed.
-Focus: Signal Processing & AI Infrastructure
-Goal: 30-Day Research Portfolio for PhD Application
-Tools: Python, Pydroid 3, Matplotlib, GitHub (Mobile)
+Name: Olanrewaju, Oladele Emmanuel  
+Field: Industrial Technical Education (Electrical/Electronics) - B.Ed  
+Focus: Signal Processing, Communications Engineering & AI  
+Goal: 30-Day Research Portfolio for PhD Application  
+Tools: Python, Pydroid 3, Matplotlib, GitHub (Mobile)  
 Duration: 30-Day Learning Journey
 
-About This Repository:
-This repository documents my hands-on learning of Signals and Systems from first principles. All experiments are coded and documented entirely on Android phone using Pydroid 3.
+### About
+This repo documents my hands-on learning of Signals and Systems from first principles. All experiments coded entirely on Android phone using Pydroid 3.
 
-Progress So Far:
-Day 01 - Sine Wave - First Signal Plot (5Hz) - Completed
-Day 02 - Sine vs Cosine Phase Difference (5Hz) - Complete
-Day 03 - Effect of Frequency (1Hz, 5Hz, 10Hz) - Completed
-Day 04 - Effect of Amplitude (A = 0.5, 1, 2 at 5Hz) - Completed
-Day 05 - Phase Shift (0°, 90°, 180°) and Euler Formula - Completed
-Day 06 - Superposition: Constructive (2x amplitude) & Destructive (0 cancellation), f=5Hz T=0.2s - Completed
-Day 07 - Fourier Series: Square Wave built from 5 harmonics (1,3,5,7,9), f=1Hz T=1s - Completed
-Day 08 - Fourier Transform: Time -> Frequency using FFT (5Hz, 15Hz, 50Hz detection) - Completed
+### Progress So Far
+- Day 01 - Sine Wave - First Signal Plot (5Hz) - Done
+- Day 02 - Sine vs Cosine Phase Difference (5Hz) - Done
+- Day 03 - Effect of Frequency (1Hz, 5Hz, 10Hz) - Done
+- Day 04 - Effect of Amplitude (A=0.5,1,2 at 5Hz) - Done
+- Day 05 - Phase Shift (0,90,180) and Euler Formula - Done
+- Day 06 - Superposition: Constructive (2x) & Destructive (0) - Done
+- Day 07 - Fourier Series: Square Wave from 5 harmonics - Done
+- Day 08 - Fourier Transform: Time -> Frequency using FFT - Done
+- Day 09 - IFFT Filter: Removed 50Hz noise - Done
 
-Folder Structure:
-Each folder contains:
-- .py code file
-- Output screenshot
-- README.md explaining what I learned
+### Folder Structure
+Each folder has:
+- .py code
+- Output screenshot / plot
+- README explaining what I learned
 
 Student Portfolio Project
