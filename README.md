@@ -20,6 +20,7 @@ This repo documents my hands-on learning of Signals and Systems from first princ
 - Day 07 - Fourier Series: Square Wave from 5 harmonics - Done
 - Day 08 - Fourier Transform: Time -> Frequency using FFT - Done
 - Day 09 - IFFT Filter: Removed 50Hz noise - Done
+- Day 10 - Windowing: Hanning, Hamming, Blackman vs Rectangular - Done
 
 ### Folder Structure
 Each folder has:
