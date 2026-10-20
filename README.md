@@ -1,16 +1,16 @@
 SIGNAL PROCESSING DOCUMENTATION
 
-Name: Olanrewaju, Oladele Emmanuel  
-Field: Industrial Technical Education (Electrical/Electronics) - B.Ed  
-Focus: Signal Processing, Communications Engineering & AI  
-Goal: 30-Day Research Portfolio for PhD Application  
-Tools: Python, Pydroid 3, Matplotlib, GitHub (Mobile)  
+Name: Olanrewaju, Oladele Emmanuel
+Field: Industrial Technical Education (Electrical/Electronics) - B.Ed
+Focus: Signal Processing, Communications Engineering & AI
+Goal: 30-Day Research Portfolio for PhD Application
+Tools: Python, Pydroid 3, Matplotlib, GitHub (Mobile)
 Duration: 30-Day Learning Journey
 
-ABOUT 
+ABOUT
 This repo documents my hands-on learning of Signals and Systems from first principles. All experiments coded entirely on Android phone using Pydroid 3.
 
-🔗 Progress So Far
+PROGRESS SO FAR
 Day 01 - Sine Wave - First Signal Plot (5Hz) - Done
 Day 02 - Sine vs Cosine Phase Difference (5Hz) - Done
 Day 03 - Effect of Frequency (1Hz, 5Hz, 10Hz) - Done
@@ -26,8 +26,8 @@ Day 12 - STFT: Time-frequency analysis, 5Hz to 20Hz spectrogram - Done
 
 FOLDER STRUCTURE
 Each folder has:
-- .py code
-- Output screenshot / plot
-- README explaining what I learned
+.py code
+Output screenshot / plot
+README explaining what I learned
 
 Student Portfolio Project
