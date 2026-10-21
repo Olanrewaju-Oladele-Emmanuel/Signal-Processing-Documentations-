@@ -42,6 +42,8 @@ Day 11 - Convolution: Signal overlapping & System response - Done
 
 Day 12 - STFT: Time-frequency analysis, 5Hz to 20Hz spectrogram - Done
 
+Day 13 - Correlation: Autocorrelation & Cross-correlation, delay detection - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
