@@ -46,6 +46,10 @@ Day 13 - Correlation: Autocorrelation & Cross-correlation, delay detection - Don
 
 Day 14 - Impulse Response & LTI Systems: h = exp(-t/tau), y = x * h - Done
 
+Day 15 - Sampling and Nyquist Theorem: fs > 2fm, 5Hz sampled - Done
+
+Day 16 - Aliasing: fs < 2fm effect, 5Hz looks like 3Hz and 1Hz - Done
+
 
 
 FOLDER STRUCTURE
