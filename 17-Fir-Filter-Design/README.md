@@ -15,7 +15,7 @@ HOW IT WORKS
 
 Ideal low pass filter impulse response is sinc function
 h = sin(2*pi*fc*(n-M)/fs) / (pi*(n-M))
-At center I used 2*fc/fs to avoid divide by zero
+At center I used 2*fc/fs to avoid dividing by zero
 
 Then apply Hamming window to reduce ripple
 w[n] = 0.54 - 0.46*cos(2*pi*n/(N-1))
