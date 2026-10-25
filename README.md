@@ -2,7 +2,7 @@ SIGNAL PROCESSING DOCUMENTATION
 
 Name: Olanrewaju, Oladele Emmanuel
 
-Field: Industrial Technical Education (Electrical/Electronics) - B.Ed
+Field: Industrial Technical Education (Electrical/Electronics) - Bsc
 
 Focus: Signal Processing, Communications Engineering & AI
 
@@ -49,6 +49,8 @@ Day 14 - Impulse Response & LTI Systems: h = exp(-t/tau), y = x * h - Done
 Day 15 - Sampling and Nyquist Theorem: fs > 2fm, 5Hz sampled - Done
 
 Day 16 - Aliasing: fs < 2fm effect, 5Hz looks like 3Hz and 1Hz - Done
+
+Day 17 - FIR Filter Design - Low Pass using sinc and Hamming window - Done
 
 
 
