@@ -1,0 +1,62 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# day 17 fir filter
+# low pass
+
+fs = 200
+fc = 20
+N = 51
+
+M = (N-1)//2
+n = np.arange(N)
+
+# ideal filter sinc
+h_ideal = np.sinc(2*fc/fs * (n - M))
+
+# hamming window
+w = 0.54 - 0.46*np.cos(2*np.pi*n/(N-1))
+
+h = h_ideal * w
+h = h / np.sum(h)
+
+# freq response, i did it with loop
+freqs = np.linspace(0, 100, 512)
+H = []
+
+for f in freqs:
+    r = 0
+    im = 0
+    for k in range(N):
+        r += h[k]*np.cos(2*np.pi*f*k/fs)
+        im -= h[k]*np.sin(2*np.pi*f*k/fs)
+    H.append((r*r + im*im)**0.5)
+
+# test signal 5hz and 50hz
+t = np.arange(0, 1, 1/fs)
+x = np.sin(2*np.pi*5*t) + 0.8*np.sin(2*np.pi*50*t)
+
+# convolve
+y = np.zeros(len(t))
+for i in range(len(t)):
+    s = 0
+    for j in range(N):
+        if i-j >= 0:
+            s += x[i-j]*h[j]
+    y[i] = s
+
+# plot
+plt.subplot(2,1,1)
+plt.plot(freqs, H)
+plt.title('day 17 fir lpf')
+plt.grid()
+
+plt.subplot(2,1,2)
+plt.plot(t, x, label='in')
+plt.plot(t, y, label='out')
+plt.legend()
+plt.grid()
+
+plt.tight_layout()
+plt.savefig('response.png')
+print('done')
