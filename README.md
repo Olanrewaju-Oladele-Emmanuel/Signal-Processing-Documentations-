@@ -52,6 +52,8 @@ Day 16 - Aliasing: fs < 2fm effect, 5Hz looks like 3Hz and 1Hz - Done
 
 Day 17 - FIR Filter Design - Low Pass using sinc and Hamming window - Done
 
+Day 18 - IIR Filter Design - Low Pass using feedback (1st order alpha and 2nd order Butterworth, fc=15Hz to remove 50Hz noise, reason feedback makes it efficient with 5 coeffs but can be unstable if poles outside unit circle) - Done
+
 
 
 FOLDER STRUCTURE
