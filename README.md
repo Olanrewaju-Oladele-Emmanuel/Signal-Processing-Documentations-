@@ -54,7 +54,7 @@ Day 17 - FIR Filter Design - Low Pass using sinc and Hamming window - Done
 
 Day 18 - IIR Filter Design: Feedback filter, removed 50Hz noise - Done
 
-
+Day 19 - High Pass and Band Pass Filter - Done
 
 FOLDER STRUCTURE
 
