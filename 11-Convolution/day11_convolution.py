@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 t = np.linspace(0, 2, 500)
-input_signal = np.sin(2 * np.pi * 3 * t) * (t < 1)  # Your sine wave
+input_signal = np.sin(2 * np.pi * 3 * t) * (t < 1)  # Sine wave
 h = np.exp(-5 * t) * (t < 0.8)  # Impulse response (RC filter)
 
 conv_result = np.convolve(input_signal, h, mode='full')
