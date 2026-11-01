@@ -56,6 +56,8 @@ Day 18 - IIR Filter Design: Feedback filter, removed 50Hz noise - Done
 
 Day 19 - High Pass and Band Pass Filter - Done
 
+Day 20 - AM Modulation: Envelope varies with message, (1+m*message)*carrier - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
