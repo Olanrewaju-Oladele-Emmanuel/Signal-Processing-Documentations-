@@ -58,6 +58,8 @@ Day 19 - High Pass and Band Pass Filter - Done
 
 Day 20 - AM Modulation: Envelope varies with message, (1+m*message)*carrier - Done
 
+Day 21 - FM Modulation (kf=20) - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
