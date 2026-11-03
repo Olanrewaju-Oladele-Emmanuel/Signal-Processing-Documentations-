@@ -60,6 +60,10 @@ Day 20 - AM Modulation: Envelope varies with message, (1+m*message)*carrier - Do
 
 Day 21 - FM Modulation (kf=20) - Done
 
+Day 22 - Noisy Signal & SNR: Signal Power, Noise Power, SNR = -1.0dB, clean 50Hz vs noisy signal - Done
+
+
+
 FOLDER STRUCTURE
 
 Each folder has:
