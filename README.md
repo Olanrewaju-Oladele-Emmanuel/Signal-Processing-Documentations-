@@ -62,6 +62,8 @@ Day 21 - FM Modulation (kf=20) - Done
 
 Day 22 - Noisy Signal & SNR: Signal Power, Noise Power, SNR = -1.0dB, clean 50Hz vs noisy signal - Done
 
+Day 23 - Spectral Leakage: Hann window, zero padding, N=100 vs N=1000 resolution - Done
+
 
 
 FOLDER STRUCTURE
