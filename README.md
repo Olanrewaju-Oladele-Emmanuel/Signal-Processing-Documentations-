@@ -64,7 +64,7 @@ Day 22 - Noisy Signal & SNR: Signal Power, Noise Power, SNR = -1.0dB, clean 50Hz
 
 Day 23 - Spectral Leakage: Hann window, zero padding, N=100 vs N=1000 resolution - Done
 
-
+Day 24 - Power Spectral Density: Welch PSD cleaner than simple PSD, 5Hz peak bigger than 20Hz - Done
 
 FOLDER STRUCTURE
 
