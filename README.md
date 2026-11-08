@@ -66,6 +66,8 @@ Day 23 - Spectral Leakage: Hann window, zero padding, N=100 vs N=1000 resolution
 
 Day 24 - Power Spectral Density: Welch PSD cleaner than simple PSD, 5Hz peak bigger than 20Hz - Done
 
+Day 25 - Hilbert Transform & Envelope: AM envelope, recovered message from envelope - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
