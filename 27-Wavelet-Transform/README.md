@@ -35,5 +35,3 @@ Fourth plot is the scalogram. You can see when the frequency changes, and you ca
 
 So yeah, wavelet shows both time and frequency. That is the whole point.
 
-Output:
-![output](day27_output.png)
