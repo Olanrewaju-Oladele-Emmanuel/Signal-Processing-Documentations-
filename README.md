@@ -68,6 +68,10 @@ Day 24 - Power Spectral Density: Welch PSD cleaner than simple PSD, 5Hz peak big
 
 Day 25 - Hilbert Transform & Envelope: AM envelope, recovered message from envelope - Done
 
+Day 26 - Signal Reconstruction: Rebuilt signal from samples and from low + high parts, error close to zero - Done
+
+Day 27 - CWT Scalogram: Morlet wavelet, 5Hz to 20Hz change and spike at 0.75s - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
