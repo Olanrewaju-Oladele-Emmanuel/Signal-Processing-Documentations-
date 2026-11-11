@@ -72,6 +72,8 @@ Day 26 - Signal Reconstruction: Rebuilt signal from samples and from low + high 
 
 Day 27 - CWT Scalogram: Morlet wavelet, 5Hz to 20Hz change and spike at 0.75s - Done
 
+Day 28 - Real World Signal: ECG and Audio Analysis: Cleaned noisy ECG, found R-peaks, HR 72 bpm, STFT spectrogram 200Hz to 800Hz - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
