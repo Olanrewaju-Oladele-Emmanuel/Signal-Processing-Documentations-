@@ -74,6 +74,8 @@ Day 27 - CWT Scalogram: Morlet wavelet, 5Hz to 20Hz change and spike at 0.75s - 
 
 Day 28 - Real World Signal: ECG and Audio Analysis: Cleaned noisy ECG, found R-peaks, HR 72 bpm, STFT spectrogram 200Hz to 800Hz - Done
 
+Day 29 - Filter Comparison Project: FIR 20 taps won, error 0.0549, IIR 2nd order failed because coefficients were not for fs equals 500 - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
