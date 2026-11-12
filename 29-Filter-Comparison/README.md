@@ -1,6 +1,9 @@
-DAY 29 - FILTER COMPARISON PROJECT:
+DAY 29 
+FILTER COMPARISON PROJECT:
+
 WHAT I DID TODAY:
 I Compared FIR And IIR On The Same Signal. I Wanted To See Which One Really Wins. I Used The Same Signal From Day 17 And Day 18. 5Hz Clean Plus 50Hz Noise. Cutoff 15Hz. Same Signal For All Filters, So The Comparison Is Fair.
+
 THE FILTERS I COMPARED:
 1. FIR, Moving Average With 20 Taps. This Is From Day 17.
 2. IIR 1st Order. This Is From Day 18. I Used The Alpha Formula.
