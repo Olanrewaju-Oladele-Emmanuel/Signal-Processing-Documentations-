@@ -76,6 +76,8 @@ Day 28 - Real World Signal: ECG and Audio Analysis: Cleaned noisy ECG, found R-p
 
 Day 29 - Filter Comparison Project: FIR 20 taps won, error 0.0549, IIR 2nd order failed because coefficients were not for fs equals 500 - Done
 
+Day 30 - Final Capstone: Full Signal Chain - Noisy Signal, FIR Filter, AM Modulation, Demodulation, Recovered Signal Matches Original - Done
+
 FOLDER STRUCTURE
 
 Each folder has:
